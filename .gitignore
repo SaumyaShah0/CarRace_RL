@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environment
+venv/
+env/
+car_race_env/
+*.env/
+
+# Logs and checkpoints
+logs_car_race/
+*.zip
+*.mp4
+
+# VS Code settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db

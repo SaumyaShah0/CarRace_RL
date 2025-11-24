@@ -1,0 +1,9 @@
+gymnasium==0.29.1
+gymnasium[box2d]==0.29.1
+pybox2d
+stable-baselines3[extra]
+tensorboard
+moviepy
+imageio[ffmpeg]
+numpy
+matplotlib
